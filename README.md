@@ -1,16 +1,35 @@
-## Hi there 👋
+# Hi there, I'm Michael Osahon 👋
 
-<!--
-**enaiho/enaiho** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Welcome to my GitHub profile! I'm a Senior Software Engineer and Engineering Manager with over 9 years of professional experience building scalable and maintainable software systems.
 
-Here are some ideas to get you started:
+## About Me
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+* **Role:** Senior Software Engineer & Engineering Manager
+* **Experience:** 9+ years of professional coding experience
+* **Focus:** Building robust, scalable, and high-performance applications.
+* **Passion:** Leading teams, mentoring engineers, and delivering impactful solutions.
+
+## Technologies
+
+Here's a snapshot of the technologies I work with:
+
+* **Programming Languages:** TypeScript, JavaScript, C#
+* **Scripting Languages:** SQL
+* **Frameworks:** NestJS, ExpressJS, ReactJS, ASP.NET Core
+* **Database Technologies:** Postgres, MySQL, MongoDB
+
+## What You'll Find Here
+
+In my repositories, you'll find:
+
+* Projects demonstrating best practices in software development.
+* Examples of building applications with NestJS, React, and .NET Core.
+* Database schema designs and SQL scripts.
+* Potentially some open-source contributions.
+
+## Let's Connect
+
+* **LinkedIn:** https://www.linkedin.com/in/enaiho/
+* **Email:** osahonmichael@yahoo.com
+
+Feel free to explore my repositories and reach out if you have any questions or would like to collaborate!
