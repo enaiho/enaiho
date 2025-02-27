@@ -1,6 +1,6 @@
 # Hi there, I'm Michael Osahon 👋
 
-Welcome to my GitHub profile! I'm a Senior Software Engineer and Engineering Manager with over 9 years of professional experience building scalable and maintainable software systems.
+I'm a Senior Software Engineer and Engineering Manager with over 9 years of professional experience building scalable and maintainable software systems.
 
 ## About Me
 
